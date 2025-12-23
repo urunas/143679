@@ -63,7 +63,7 @@ namespace projemizz
                             Console.Write("Öğrenci Numarası: ");
                             ogrenciNumarasi[i - 1] = Console.ReadLine().Trim();
 
-                            long.Parse(ogrenciNumarasi[i - 1]); // sadece rakam kontrolü
+                            long.Parse(ogrenciNumarasi[i - 1]); 
                             break;
                         }
                         catch (FormatException)
@@ -85,12 +85,12 @@ namespace projemizz
                         {
                             try
                             {
-                                int.Parse(ad[i - 1]); // sayı girilirse burası çalışır
+                                int.Parse(ad[i - 1]);
                                 Console.WriteLine("İsim sadece harflerden oluşmalıdır!");
                             }
                             catch (FormatException)
                             {
-                                break; // sayı değilse kabul
+                                break;
                             }
                         }
                     }
@@ -108,12 +108,12 @@ namespace projemizz
                         {
                             try
                             {
-                                int.Parse(soyad[i - 1]); // sayı girilirse burası çalışır
+                                int.Parse(soyad[i - 1]); 
                                 Console.WriteLine("Soyad sadece harflerden oluşmalıdır!");
                             }
                             catch (FormatException)
                             {
-                                break; // sayı değilse kabul
+                                break; 
                             }
                         }
                     }

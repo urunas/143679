@@ -1,0 +1,14 @@
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/bin/Debug/net9.0/projemizz
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/bin/Debug/net9.0/projemizz.deps.json
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/bin/Debug/net9.0/projemizz.runtimeconfig.json
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/bin/Debug/net9.0/projemizz.dll
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/bin/Debug/net9.0/projemizz.pdb
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/obj/Debug/net9.0/projemizz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/obj/Debug/net9.0/projemizz.AssemblyInfoInputs.cache
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/obj/Debug/net9.0/projemizz.AssemblyInfo.cs
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/obj/Debug/net9.0/projemizz.csproj.CoreCompileInputs.cache
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/obj/Debug/net9.0/projemizz.dll
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/obj/Debug/net9.0/refint/projemizz.dll
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/obj/Debug/net9.0/projemizz.pdb
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/obj/Debug/net9.0/projemizz.genruntimeconfig.cache
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/projemizz/obj/Debug/net9.0/ref/projemizz.dll

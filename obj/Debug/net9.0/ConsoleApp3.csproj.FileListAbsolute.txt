@@ -1,0 +1,14 @@
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.deps.json
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.runtimeconfig.json
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.dll
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.pdb
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfoInputs.cache
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfo.cs
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.dll
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/obj/Debug/net9.0/refint/ConsoleApp3.dll
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.pdb
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.genruntimeconfig.cache
+/Users/urunasar/Desktop/Okul/Hafta4/ConsoleApp3/obj/Debug/net9.0/ref/ConsoleApp3.dll

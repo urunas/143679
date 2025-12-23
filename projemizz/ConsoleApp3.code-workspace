@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ConsoleApp2"
+		},
+		{
+			"path": "../../ConsoleApp1"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "ConsoleApp3/projemizz.sln"
+	}
+}
